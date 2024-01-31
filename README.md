@@ -1,16 +1,3 @@
 # builder_pattern_dart
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Builder pattern is one of the creational design patterns. This pattern allows creating complex objects in a simple and understandable way. Builder pattern separates the object's structure and representation, making the same construction process usable for different representations. This way, the object creation process is performed step by step and the desired features can be selected.
